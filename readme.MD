@@ -59,8 +59,7 @@ Healthcare_Analytics/
 │
 ├── dataset/
 │   ├── diabetic_data.csv
-│   ├── description.pdf
-│   └── .gitkeep
+│   └── description.pdf  
 │
 ├── ipynb_modules/
 │   ├── 1. Configuration.ipynb
@@ -75,15 +74,13 @@ Healthcare_Analytics/
 │   ├── Confusion_Matrix.png
 │   ├── Feature_Importance.png
 │   ├── Roc_Curve.png
-│   ├── Future_Score_Based_Prediction.png
-│   └── .gitkeep
+│   └── Future_Score_Based_Prediction.png 
 │
 ├── presentation/
 │   ├── Architecture_Diagram.png
 │   ├── Healthcare_analytics_presentation.pdf
-│   ├── Hospital_Readmission_Analytics_Dashboard.pdf
-│   └── .gitkeep
-│
+│   └── Hospital_Readmission_Analytics_Dashboard.pdf
+│   
 └── README.md
 ```
 
@@ -349,8 +346,17 @@ This directory contains **visual artifacts produced by the ML pipeline**.
 
 ---
 
+## 🔗 Social Connections
 
-##For me more such learning and insights in
-LinkedIn
-Youtube
+Stay connected and explore more content around **Data Engineering, Analytics, Databricks, and Healthcare AI**.
+
+* **LinkedIn:**
+  👉 [https://www.linkedin.com/in/ilakkiyan-av/](https://www.linkedin.com/in/ilakkiyan-av/)
+  *(Projects, insights, and professional updates)*
+
+* **YouTube:**
+  👉 [https://www.youtube.com/@IlakkiyanAV](https://www.youtube.com/@IlakkiyanAV)
+  *(Hands-on tutorials, project walkthroughs, and analytics content)*
+
+
 
